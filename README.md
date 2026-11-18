@@ -8,8 +8,6 @@ This walks you from a fresh install to a working setup: signing in, linking your
 CA folders, making watchlists and connecting an AI for submittal reviews. Everything here can be
 changed later, and nothing in it moves or renames a folder.
 
-The pictures use made-up jobs (HUB04, HUB05, LAB02) and people; yours show your own.
-
 ![CA Tracker's main window](docs/images/how-to/main-window.png)
 
 ### 1. Install it
